@@ -1,0 +1,6 @@
+Cleared history
+Face:0(Y)[tip=0, ctr=0] Edges: [0, 1, 2]Orientation =[0, 0, 0]
+Face:1(R)[tip=0, ctr=0] Edges: [0, 3, 4]Orientation =[0, 0, 0]
+Face:2(G)[tip=0, ctr=0] Edges: [1, 4, 5]Orientation =[0, 0, 0]
+Face:3(B)[tip=0, ctr=0] Edges: [2, 5, 3]Orientation =[0, 0, 0]
+Status:  Tips: Okay Centers: Okay 1st layer edges:Okay Solved: NOT SOLVED
