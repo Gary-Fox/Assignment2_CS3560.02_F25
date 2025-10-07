@@ -23,10 +23,11 @@ Explain your MVC structure:
 2. **Challenge 2:** I had trouble running JavaFX on my IDE
    - **Solution:** I utilized help from students, my professor, and a lot of googling.
 
-3.**Challenge 3:** I had a hard time conceptualizing the movements in my head
-	-**Solution:** Looking up website tutorials on Pyraminx puzzles helped marginally
-4.**Challenge 3:** I couldn't figure out a way to wire the movements made with the 2d net representation
-	-**Solution:** ... 
+3. **Challenge 3:** I had a hard time conceptualizing the movements in my head
+	- **Solution:** Looking up website tutorials on Pyraminx puzzles helped marginally
+
+4. **Challenge 4:** I couldn't figure out a way to wire the movements made with the 2d net representation
+	- **Solution:** ... 
 
 ## What We Learned
 - It is helpful to separate the function of the program from its visual/application implementation
@@ -37,9 +38,9 @@ Explain your MVC structure:
 - Measure twice, cut once (Plan your methods/algorithms before implementing them.)
 
 ## If We Had More Time
--I would have loved to complete the assignment
--Added a properly implemented 2d Net representation of the puzzle
--Added a viewer model that facilitates the 2d net representation instead of trying to do it all through javaFX
--Make the undo/redo buttons traversal based on the history file
--Add Junit testing
--Do projects over the course of 2 weeks rather than 3 days whenever possible; if not possible, make it possible.
+- I would have loved to complete the assignment
+- Added a properly implemented 2d Net representation of the puzzle
+- Added a viewer model that facilitates the 2d net representation instead of trying to do it all through javaFX
+- Make the undo/redo buttons traversal based on the history file
+- Add Junit testing
+- Do projects over the course of 2 weeks rather than 3 days whenever possible; if not possible, make it possible.
