@@ -42,7 +42,7 @@
 - JavaFX
 - Java.Script
 - Java.io
--Java.lang
+- Java.lang
+- Java.util
 
--Java.util
 
