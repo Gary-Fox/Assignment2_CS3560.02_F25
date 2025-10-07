@@ -3,6 +3,9 @@
 ## Team Members
 - Jacob Carrasco (Gary Fox)
 
+## Demo Video Link
+[]
+
 ## How to Run
 1. Clone repository: `git clone https://github.com/Gary-Fox/Assignment2_CS3560.02_F25`
 2. Open in IntelliJ/Eclipse
@@ -12,20 +15,20 @@
 5. Run '[whatever you named the configuration]' in IntelliJ/Eclipse
 
 ## Features Implemented
-[X] Correct state representation (all stickers tracked)
-[X] Standard move notation (R, U, F, L, D, B with ', 2)
-[X] Scramble function (random valid moves)
-[X] Undo/redo move history
-[ ] 2D net visualization (updates with moves)
-[X] Move history display
-[X] Save/load puzzle state
-[X] Reset to solved
+- [X] Correct state representation (all stickers tracked)
+- [X] Standard move notation (R, U, F, L, D, B with ', 2)
+- [X] Scramble function (random valid moves)
+- [X] Undo/redo move history
+- [ ] 2D net visualization (updates with moves)
+- [X] Move history display
+- [X] Save/load puzzle state
+- [X] Reset to solved
 
 ## Controls
--Operate buttons by:
-	-Using the left mouse button to click on them
-	-Use Tab to navigate the buttons, and select one by pressing the Enter key
--Use the keyboard to type in a sequence of moves within the proper text field
+- Operate buttons by:
+	- Using the left mouse button to click on them
+	- Use Tab to navigate the buttons, and select one by pressing the Enter key
+- Use the keyboard to type in a sequence of moves within the proper text field
 
 ## Known Issues
 - Issue 1: Undo does not traverse the entire history of moves, instead going back to the most recent move.
@@ -36,8 +39,9 @@
 - Issue 6: MoveHistory.sav and PyraminxState.sav are vulnerable to alterations by user
 
 ## External Libraries
--JavaFX
--Java.Script
--Java.io
+- JavaFX
+- Java.Script
+- Java.io
 -Java.lang
+
 -Java.util
