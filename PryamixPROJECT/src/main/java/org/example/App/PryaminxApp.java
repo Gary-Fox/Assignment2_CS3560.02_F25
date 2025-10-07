@@ -303,14 +303,13 @@ public class PryaminxApp extends Application
         histText.append(initialHistory);
         firstRun = false;
         //Stage setup
-        stage.setScene(new Scene(root, 720, 710));
+        stage.setScene(new Scene(root, 775, 710));
         stage.show();
 
         }
 
         /** Updates the user, updates PyraminxState.sav, updates MoveHistory.sav
          * @param header the most recent action by the user as a string
-         *
          * */
     private void writeState(String header)
         {
